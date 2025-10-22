@@ -820,7 +820,7 @@ def main_menu():
 # ============================================================
 if __name__ == "__main__":
     clear_screen()
-    print(accent(" ᓚᘏᗢ CATC2 STRESSER"))
+    print(accent(" FEARC2 STRESSER"))
     if valid_passkey():
         main_menu()
     else:
